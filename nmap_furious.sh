@@ -19,7 +19,7 @@ echo ""
 read ports
 
 echo ""
-echo -e "\e[33m	Escaneando 65535 puertos... Creando archivo (nmap_Scan-sV)	\e[0m"
+echo -e "\e[33m	Escaneando puertos... Creando archivo (nmap_Scan-sV)	\e[0m"
 echo ""
 
 echo -e "\e[33m -------------------------------------------------------------  \e[0m"
